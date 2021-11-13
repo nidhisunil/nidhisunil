@@ -1,10 +1,3 @@
 ### Hi there 👋
 
-I'm Nidhi Sunil Kumar, a graduate student at Columbia University in the Master in Computer Science program. 
-
-
-<div float="right">
-  <p text="red">heyyyyyyyyyyy</p>
-</div>
-  
-<a href="www.google.com" >![giphy](https://user-images.githubusercontent.com/63041917/141607467-5230ba8a-8637-4724-9e9d-5a62fd52c769.gif) </a>
+I'm Nidhi Sunil Kumar, a graduate student at Columbia University in the Master in Computer Science program. I'm mainly interested in Full Stack Development, but am slowly branching out to Project Management and UI/UX design too. ![giphy (1)](https://user-images.githubusercontent.com/63041917/141607563-e8dfad91-9a36-45c9-a448-fcaf5bee7093.gif)
