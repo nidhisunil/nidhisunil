@@ -1,4 +1,5 @@
 ### Hi there 👋
 
 I'm Nidhi Sunil Kumar, a graduate student at Columbia University in the Master in Computer Science program. I'm mainly interested in Full Stack Development, but am slowly branching out to Project Management and UI/UX design too. ![giphy (1)](https://user-images.githubusercontent.com/63041917/141607563-e8dfad91-9a36-45c9-a448-fcaf5bee7093.gif)
-You can reach out to me at nidhisunil2000@gmail.com, or connect on <a href="https://www.linkedin.com/in/nidhi-sunil-kumar/"> LinkedIn </a>
+<br>
+You can reach out to me at nidhisunil2000@gmail.com or connect with me on <a href="https://www.linkedin.com/in/nidhi-sunil-kumar/"> LinkedIn </a>
