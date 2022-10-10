@@ -3,7 +3,7 @@
 
 I'm a Master's student at Columbia University graduating Winter 2022. I'm currently in the process of looking for frontend/full-stack roles. You can reach me at n3566@columbia.edu
 
-Skills: FLASK / PYTHON / JS / HTML / CSS / NODE
+Main Skills: FLASK / PYTHON / JS / HTML / CSS / NODE
 
 
 
