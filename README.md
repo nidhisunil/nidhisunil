@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Nidhi. 
 ![](https://github.com/nidhisunil/nidhisunil/blob/main/Capture.PNG)
 
-I'm a Master's student at Columbia University graduating Winter 2022. I'm currently in the process of looking for frontend/full-stack roles. You can reach me at n3566@columbia.edu
+I'm a CS graduate from Columbia University with 2 years of experience in Full-Stack and Sales Engineering. 
 
 Main Skills: FLASK / PYTHON / JS / HTML / CSS / NODE
 
