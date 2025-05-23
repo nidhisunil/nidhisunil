@@ -1,9 +1,8 @@
 ### Hi 👋 I'm Nidhi. 
-![](https://github.com/nidhisunil/nidhisunil/blob/main/Capture.PNG)
 
-I'm a CS graduate from Columbia University with 2 years of experience in Full-Stack and Sales Engineering. 
+I'm a CS graduate from Columbia University with 2.5 years of experience in Full-Stack and Sales Engineering. I am currently on the lookout for roles in Solutions Engineering or Software Engineering. 
 
-Main Skills: FLASK / PYTHON / JS / HTML / CSS / NODE
+I dabble in Natural Language Processing, Computer Graphics and Web Development. 
 
 
 
